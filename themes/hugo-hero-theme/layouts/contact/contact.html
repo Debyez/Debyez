@@ -1,0 +1,62 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-contact{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+      {{ .Content }}
+      <div class="col-8">
+        <form action="https://fabform.io/f/L_Ti7RS" method="post">
+          <div class="container">
+            <div class="row">
+              <!-- Input 1: Name -->
+              <div class="col-md-6 mb-3">
+                <input type="text" class="form-control" name="name" placeholder="Your name">
+              </div>
+              <!-- Input 2: Email -->
+              <div class="col-md-6 mb-3">
+                <input type="email" class="form-control" name="email" placeholder="Your Email">
+              </div>
+            </div>
+
+            <div class="row">
+              <!-- Input 3: Phone number (full-width like the above row) -->
+              <div class="col-md-12 mb-3">
+                <input type="text" class="form-control" name="number" placeholder="Your phone number">
+              </div>
+            </div>
+
+            <div class="row">
+              <!-- Textarea (same width as above inputs) -->
+              <div class="col-md-12 mb-3">
+                <textarea class="form-control" name="message" rows="6"
+                  placeholder="Type your message here..."></textarea>
+              </div>
+            </div>
+
+            <div class="row">
+              <!-- Submit button -->
+              <div class="col-md-12 mb-3">
+                <button class="button" style="border: 0px;" type="submit">Send</button>
+              </div>
+            </div>
+          </div>
+        </form>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
