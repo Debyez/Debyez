@@ -25,6 +25,20 @@
       flex: 0 0 120px;
     }
   }
+
+   .footer-menu-title {
+    color: #ffffff;
+    font-size: 1rem;
+    font-family: $font-family-heading;
+    margin-bottom: 12px;
+    text-align: center;
+    flex: 0;
+    @include media-breakpoint-up(sm) {
+      margin: 0;
+      flex: 0 0 120px;
+    }
+  }
+
   .footer-menu {
     margin-top: 16px;
     display: flex;
