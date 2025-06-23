@@ -1,57 +1,31 @@
 ---
-title: 'AI powered IETM suite'
+title: 'AetherDocs AI powered IETM suite'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroHeading: 'AetherDocs AI powered IETM suite'
+heroSubHeading: 'Transform your technical manuals with AI-driven intelligence—available offline and on-demand'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+The **S1000D AI IETM Suite** offers an end-to-end solution for authoring, managing, and delivering **S1000D-compliant** technical manuals. This suite combines traditional **IETM** capabilities with advanced **AI features** to optimize the entire documentation process. It includes three tightly integrated modules that help streamline both the **creation** and **delivery** of technical content.
 
-## Ne verba patulosque numen vix libet
+## **Whats in the Suite:**
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+* **S1000D Authoring Tool**: **WYSIWYG-based input** with AI-assisted **XML creation** that simplifies the authoring process.
+* **Common Source Database (CSDB)**: A centralized, **version-controlled**, and **secure storage** for all your content, ensuring that your documents are always up-to-date and easily accessible.
+* **IETM Viewer**: An intuitive interface with **Natural Language Processing (NLP)** search and 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+### **Features:**
+**AI contextual assistant**, allowing users to access relevant information quickly.
+* **Automated Content Management**: The AI backend automates tasks such as XML generation, identifying and linking cross-referenced content, and managing multimedia.
+* **Cross-Platform Compatibility**: Supports both **desktop** and **mobile environments**, ensuring easy access across various devices.
+* **Deployment Options**: Flexible deployment with both **on-premise** and **cloud** options, meeting organizational IT and security requirements.
+* **Comprehensive Validation**: Built-in **S1000D schema validation**, **BREX rule checks**, and **metadata management** to ensure compliance and reduce errors.
+* **Multilingual Support**: Enabling global teams to work seamlessly across different languages.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+With AetherDocs, you can streamline documentation workflows and reduce manual workload, enabling more efficient **content creation** and **information retrieval** in your technical manuals.
 
-## Postquam tamen
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.

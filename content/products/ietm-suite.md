@@ -1,64 +1,26 @@
 ---
-title: 'S1000D IETM Suite'
+title: 'Stratos S1000D IETM Suite'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-2.png'
 featured: true
 draft: false
-heroHeading: 'Business Advisory'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroHeading: 'Stratos S1000D IETM Suite'
+heroSubHeading: 'Streamlined, interactive manuals that keep your operations running smoothly, anywhere.'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+**Stratos** is designed for organizations that need a powerful, **S1000D-compliant** solution for technical documentation without the added complexity of AI features. This suite offers a more straightforward approach to creating and managing interactive technical manuals while maintaining high standards of accuracy and compliance.
 
-## Inter pectore totidem
+## **Whats in the Suite:**
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+* **S1000D Authoring Tool**: Form-based input system that supports **structured content** creation, aligned with the S1000D standard.
+* **Centralized Storage with CSDB**: Secure, **version-controlled storage** for all content, ensuring ease of access and accuracy across all documentation.
+* **IETM Viewer**: A simple, yet effective interface for navigating content and interacting with technical manuals.
 
-## Novis hunc qua erat caecisque
+### **Features:**
+* **Efficient Document Management**: Streamlined processes for managing content updates, revisions, and cross-references, without the use of AI.
+* **Offline Access**: Fully functional offline mode, enabling access to technical content in remote or disconnected environments.
+* **Cross-Platform Support**: Compatible with both desktop and mobile devices, ensuring flexibility for all users.
+* **Compliance Assurance**: Built-in features to ensure **S1000D compliance**, making your documents consistent and reliable.
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
-
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+Stratos is perfect for teams that prioritize **structured documentation** and **easy content navigation** without the need for advanced AI features.
