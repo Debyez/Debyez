@@ -2,8 +2,6 @@
 title: 'We Help Maintaining Techinical Documentations'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
-buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+We create clear, impactful technical documentation that simplifies complexity. From S1000D manuals to interactive IETMs, our expert team ensures every document is precise, user-friendly, and empowering. We transform intricate data into reliable, accessible content that drives efficiency and confidence in every operation
