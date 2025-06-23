@@ -16,8 +16,8 @@ theme = "hugo-hero-theme"
     mobile_height = "36px"
     mobile_width = "36px"
     desktop = "images/logo.svg"
-    desktop_height = "20px"
-    desktop_width = "120px"
+    desktop_height = "40px"
+    desktop_width = "160px"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
@@ -44,11 +44,6 @@ theme = "hugo-hero-theme"
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
     weight = 3
 
 [[menu.main]]
