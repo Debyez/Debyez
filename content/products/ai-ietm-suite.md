@@ -1,11 +1,11 @@
 ---
-title: 'AetherDocs AI powered IETM suite'
+title: 'Debyez AI S1000D Suite'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
+icon: 'products/ai.svg'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'AetherDocs AI powered IETM suite'
+heroHeading: 'Debyez AI S1000D Suite'
 heroSubHeading: 'Transform your technical manuals with AI-driven intelligence—available offline and on-demand'
 heroBackground: 'services/service1.jpg'
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Spectra IETM Viewer"
+title: "Debyez Viewer"
 date: 2025-06-23T20:27:22+05:30
-icon: 'services/service-icon-1.png'
+icon: 'products/viewer.svg'
 draft: false
 weight: 100
-heroHeading: 'Spectra IETM Viewer'
+heroHeading: 'Debyez Viewer'
 heroSubHeading: 'Interactive, cross-platform IETM viewer—seamless access and smart search, even offline'
 heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
 image: 'work/work1.jpg'
