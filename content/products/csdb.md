@@ -1,7 +1,7 @@
 ---
-title: "Core The Common Source Database"
+title: "Debyez CSDB"
 date: 2025-06-23T20:25:45+05:30
-icon: 'services/service-icon-1.png'
+icon: 'products/db.svg'
 draft: false
 weight: 100
 heroHeading: 'Core The Common Source Database'
