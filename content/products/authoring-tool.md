@@ -1,15 +1,15 @@
 ---
-title: 'Debyez AI S1000D Autoring Tool'
+title: 'Debyez AI S1000D Authoring Tool'
 date: 2018-11-28T15:15:26+10:00
 icon: 'products/author.svg'
 featured: true
 draft: false
-heroHeading: 'Debyez AI S1000D Autoring Tool'
+heroHeading: 'Debyez AI S1000D Authoring Tool'
 heroSubHeading: 'Accelerate authoring with AI assistance—streamlined, compliant, and error-free documentation.'
 heroBackground: ''
 ---
 
-Helix streamlines the creation of S1000D-compliant documents, enabling faster and more efficient authoring. This tool leverages AI to assist in document creation, real-time validation, and the management of complex content like multimedia elements, ensuring compliance and quality from the start.
+Debyez AI S1000D Authoring Tool streamlines the creation of S1000D-compliant documents, enabling faster and more efficient authoring. This tool leverages AI to assist in document creation, real-time validation, and the management of complex content like multimedia elements, ensuring compliance and quality from the start.
 
 ### Features:
 
@@ -20,5 +20,5 @@ Helix streamlines the creation of S1000D-compliant documents, enabling faster an
 * **Structured Tagging and Snippets**: Improve consistency and speed up content creation using structured tagging, predefined snippets, and scripting for repeatable content blocks.
 * **User-Centric Design**: The tool is designed to be efficient and intuitive, supporting both technical procedures and project-specific documentation across various platforms.
 
-With Helix you can make authoring S1000D documents faster and easier, providing a guided and automated approach that reduces manual effort and ensures high-quality, consistent content.
+With Debyez AI S1000D Authoring Tool you can make authoring S1000D documents faster and easier, providing a guided and automated approach that reduces manual effort and ensures high-quality, consistent content.
 
