@@ -2,6 +2,7 @@
 title: "Debyez Viewer"
 date: 2025-06-23T20:27:22+05:30
 icon: 'products/viewer.svg'
+featured: true
 draft: false
 weight: 100
 heroHeading: 'Debyez Viewer'
