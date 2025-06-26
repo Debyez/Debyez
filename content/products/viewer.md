@@ -5,20 +5,26 @@ icon: 'products/viewer.svg'
 draft: false
 weight: 100
 heroHeading: 'Debyez Viewer'
-heroSubHeading: 'Interactive, cross-platform IETM viewer—seamless access and smart search, even offline'
+heroSubHeading: 'Smart, Interactive IETM Viewing with AI-Powered Search'
 heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
 image: 'work/work1.jpg'
 ---
 
-The Debyez Viewer is designed to provide seamless access to your technical manuals across all platforms. Whether you’re on a desktop, tablet, or mobile device, the IETM Viewer ensures that your users have the information they need, with rich interactive content and support for both online and offline modes.
+ Debyez Viewer offers a clean, responsive interface for consuming technical manuals. It enhances the traditional viewing experience with intelligent features like Natural Language Processing (NLP) search and a contextual AI assistant. Users can search data modules using natural queries, receive AI-generated insights, and interact with content through dynamic linking and filters. Whether onboard a ship or in a technical training session, Debyez Viewer ensures fast, accurate, and intuitive access to critical documentation.
 
 ### **Features:**
 
-* **Cross-Platform Accessibility**: Effortlessly access IETMs across desktop, tablet, and mobile devices, with full web-based compatibility.
-* **Advanced Navigation & Smart Search**: Use an intuitive interface to navigate content quickly, with customizable themes, advanced search options, and a dynamic table of contents.
+* **Intuitive User Interface**: Navigate technical content with ease using a clean, organized interface designed for all user levels.
+* **NLP-Based Smart Search**: Use natural language queries to quickly and accurately discover relevant content.
+* **AI Contextual Assistant**: Get intelligent guidance through module recommendations, navigation help, and contextual explanations.
+* **Dynamic Filtering & Highlighting**: Instantly highlight search results and filter content by type, system, or status for focused browsing.
+* **Linked Content Visualization**: View interconnected modules, references, and illustrations within their contextual relationships.
+* **User Personalization Tools**: Customize the experience with bookmarks, notes, and saved views tailored to individual user sessions.
+* **Offline Access Mode**: Work seamlessly in remote or disconnected environments such as ships or field locations.
+* **Cross-Platform Compatibility**: Access the system via web, desktop, or mobile devices with a fully responsive user interface.
+* **Version-Specific Viewing**: Review and compare historical content versions to track changes and maintain clarity.
+* **Deployment & Maintenance**: Enjoy easy setup, regular updates, bug fixes, and responsive user support for a smooth experience.
 * **Interactive Media & High-Resolution Content**: View zoomable images, 3D models, and embedded videos, and get real-time content updates.
-* **Collaborative Tools**: Enable real-time collaboration with features like user annotations, interactive checklists, and job management for improved team efficiency.
 * **Offline Mode**: Stay productive even without internet access by caching content locally and syncing data when back online.
-* **AI Extensions for Enhanced User Experience**: Benefit from AI-powered extensions, such as chat assistants and contextual guidance, for a smarter, more intuitive user experience.
 
 The Debyez Viewer ensures that your users have all the tools they need for efficient, interactive, and context-aware access to technical documentation, whether they’re online or offline.

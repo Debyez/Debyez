@@ -1,31 +1,46 @@
 ---
-title: 'Debyez AI S1000D Suite'
+title: 'Debyez S1000D Suite'
 date: 2018-11-18T12:33:46+10:00
-icon: 'products/ai.svg'
+icon: 'products/suite.svg'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Debyez AI S1000D Suite'
-heroSubHeading: 'Transform your technical manuals with AI-driven intelligence—available offline and on-demand'
+heroHeading: 'Debyez S1000D Suite'
+heroSubHeading: 'End-to-End AI-Powered Solution for Technical Documentation'
 heroBackground: 'services/service1.jpg'
 ---
 
-The Debyez AI S1000D Suite offers an end-to-end solution for authoring, managing, and delivering S1000D-compliant technical manuals. This suite combines traditional IETM capabilities with advanced AI features to optimize the entire documentation process. It includes three tightly integrated modules that help streamline both the creation and delivery of technical content.
+The Debyez S1000D Suite is a comprehensive platform designed to author, manage, and deliver fully S1000D-compliant Interactive Electronic Technical Manuals (IETMs). It seamlessly integrates traditional IETM capabilities with cutting-edge AI technologies to enhance productivity, accuracy, and user experience across the technical documentation lifecycle.
 
-## **Whats in the Suite:**
+At its core, the suite comprises three tightly integrated modules:
 
-* **S1000D Authoring Tool**: WYSIWYG-based input with AI-assisted XML creation that simplifies the authoring process.
-* **Common Source Database (CSDB)**: A centralized, version-controlled, and secure storage for all your content, ensuring that your documents are always up-to-date and easily accessible.
-* IETM Viewer: An intuitive interface with Natural Language Processing (NLP) search and 
-AI contextual assistant, allowing users to access relevant information quickly.
+**Debyez Author** – A WYSIWYG authoring tool with AI assistance for S1000D compliance, content creation, and intelligent data module linking.
 
-### **Features:**
-* **Automated Content Management**: The AI backend automates tasks such as XML generation, identifying and linking cross-referenced content, and managing multimedia.
-* **Cross-Platform Compatibility**: Supports both desktop and mobile environments, ensuring easy access across various devices.
-* **Deployment Options**: Flexible deployment with both on-premise and cloud options, meeting organizational IT and security requirements.
-* **Comprehensive Validation**: Built-in S1000D schema validation, BREX rule checks, and metadata management to ensure compliance and reduce errors.
-* **Multilingual Support**: Enabling global teams to work seamlessly across different languages.
+**Debyez CSDB** – A centralized, secure, version-controlled Common Source Database built for robust data management and AI-compatible search.
 
-With Debyez AI S1000D Suite, you can streamline documentation workflows and reduce manual workload, enabling more efficient content creation and information retrieval in your technical manuals.
+**Debyez Viewer** – An intuitive viewing interface with NLP-based search and a contextual AI assistant for fast, intelligent access to technical content.
 
 
+From content creation to real-time content delivery, the Debyez S1000D Suite is built to support modern enterprises seeking smarter, faster, and more efficient documentation workflows.
+
+### Features:
+
+* **End-to-End S1000D Compliance**: Offers a complete lifecycle solution for authoring, managing, and delivering S1000D-compliant IETMs.
+
+
+* **AI-Integrated Workflow**: Enhances traditional IETM processes with AI for content creation, linking, validation, and search.
+
+
+* **Modular and Scalable Architecture**: Built with three integrated modules that can be adopted individually or as a complete suite.
+
+
+* **Cloud and On-Premise Deployment**: Flexible deployment options tailored to enterprise or defense infrastructure needs.
+
+
+* **Centralized Versioning System**: Tracks and manages changes across authoring, storage, and viewing modules for traceability.
+
+
+* **Robust API Integrations**: Seamlessly connects with PLM, ERP, and other enterprise systems.
+
+
+* **Lifecycle Maintenance & Support**: Includes installation, onboarding, updates, patches, and long-term SLA-based support.
